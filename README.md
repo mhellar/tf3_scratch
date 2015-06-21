@@ -1,6 +1,6 @@
 # Tech Focus 3 Practical Sessions
 
-*PreRequisites
+##PreRequisites
 
 ##Intro to Processing and Coding an Artwork
 
