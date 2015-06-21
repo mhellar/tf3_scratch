@@ -1,4 +1,4 @@
-# Tech Focus 3 Prctical Sessions
+# Tech Focus 3 Practical Sessions
 
 *PreRequisites
 
