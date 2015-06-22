@@ -1,0 +1,17 @@
+// examples to build on for the Processing class
+// sample code
+
+void setup() {
+    size(480, 600);
+}
+
+void draw(){
+    if  (mousePressed) {
+        fill(255,0,255); }
+    else {
+        fill(0,0,255); }
+    ellipse(mouseX, mouseY, 50, 50);
+}
+    
+    
+    
